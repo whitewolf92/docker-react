@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>I was changed on feature branch</p>
+        <p>I was changed on feature branch with additional stuff</p>
       </header>
     </div>
   );
